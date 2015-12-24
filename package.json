@@ -1,0 +1,32 @@
+{
+  "name": "vue-material-icons",
+  "version": "0.0.1",
+  "description": "SVG Material icons with support for morphing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/posva/vue-material-icons.git"
+  },
+  "keywords": [
+    "vue",
+    "mdl",
+    "material",
+    "design",
+    "google",
+    "icons",
+    "morph",
+    "morphing",
+    "morpheus",
+    "svg",
+    "animation"
+  ],
+  "author": "posva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/posva/vue-material-icons/issues"
+  },
+  "homepage": "https://github.com/posva/vue-material-icons#readme"
+}
